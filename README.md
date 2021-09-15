@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm terryso!
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=terryso&repo=terryso)](https://github.com/terryso/terryso)
+[![Patricks's github stats](https://github-readme-stats.vercel.app/api?username=terryso)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
