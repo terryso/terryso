@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm terryso!
 
-[![Patricks's github stats](https://github-readme-stats.vercel.app/api?username=terryso)](https://github.com/anuraghazra/github-readme-stats)
+[![Patricks's github stats](https://github-readme-stats-phi-five-57.vercel.app/api?username=terryso)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
