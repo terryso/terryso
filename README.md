@@ -1,7 +1,7 @@
 <h1 align="center">
-  <a href="https://terryso.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=520&lines=Hi+there%2C+I'm+Terry+%F0%9F%91%8B;Fullstack+Developer;iOS+Reverse+Engineer;小红书逆向培训讲师" alt="Typing SVG" />
-  </a>
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=800&height=60&lines=Hi+there%2C+I'm+Terry+%F0%9F%91%8B;Fullstack+Developer+%7C+iOS+Reverse+Engineer;%E5%B0%8F%E7%BA%A2%E4%B9%A6%E9%80%86%E5%90%91%E5%9F%B9%E8%AE%AD+%7C+Build+in+public;Always+learning%2C+always+shipping+%F0%9F%9A%80&random=1)](https://git.io/typing-svg)
+  
 </h1>
 
 <p align="center">
@@ -31,7 +31,7 @@
 ### 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=swift,objectivec,ts,js,react,nextjs,nodejs,python,go,docker,postgres,redis,linux,git" />
+  <img src="https://skillicons.dev/icons?i=swift,ts,js,react,nextjs,nodejs,python,go,docker,postgres,redis,linux,git" />
 </p>
 
 ---
