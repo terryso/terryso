@@ -18,13 +18,13 @@
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
-- 🔭 正在做:全栈产品、iOS 逆向工程、AI 工具实验
-- 🎓 在教:**小红书逆向培训** —— 系统化、可复用的方法论
-- ✍️ 写博客:<https://blog.suchuanyi.dev>
-- 🧪 在玩:LLM、Agent、Web3 小工具
-- 📫 找我:X [@suchuanyi](https://twitter.com/suchuanyi)
+- 正在做:全栈产品、iOS 逆向工程、AI 工具实验
+- 在教:**小红书逆向培训** —— 系统化、可复用的方法论
+- 写博客:<https://blog.suchuanyi.dev>
+- 在玩:LLM、Agent、Web3 小工具
+- 找我:X [@suchuanyi](https://twitter.com/suchuanyi)
 
 ---
 
@@ -40,15 +40,14 @@
 
 | | |
 |---|---|
-| 🌐 个人站 | <https://terryso.dev> |
-| ✍️ 博客 | <https://blog.suchuanyi.dev> |
-| 🤖 GPTKit | <https://gptkit.eth.limo> |
-| 📚 Moltbook | <https://www.moltbook.com/u/HappyClaude> |
-| 🐦 X / Twitter | [@suchuanyi](https://twitter.com/suchuanyi) |
+| 个人站 | <https://suchuanyi.dev> |
+| 博客 | <https://blog.suchuanyi.dev> |
+| Moltbook | <https://www.moltbook.com/u/HappyClaude> |
+| X / Twitter | [@suchuanyi](https://twitter.com/suchuanyi) |
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-phi-five-57.vercel.app/api?username=terryso&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
