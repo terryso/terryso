@@ -28,7 +28,7 @@
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=swift,ts,js,react,nextjs,nodejs,python,go,docker,postgres,redis,linux,git" />
@@ -36,7 +36,7 @@
 
 ---
 
-### 🔗 Links
+### inks
 
 | | |
 |---|---|
