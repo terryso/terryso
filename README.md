@@ -58,8 +58,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=terryso&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=terryso&theme=tokyonight&no-frame=true&column=7" />
+<p align="center" style="display:none">
+  <img src="https://github-profile-trophy.vercel.app/?username=terryso&theme=tokyonight&no-frame=true&column=7" style="display:none" />
 </p>
 
 ---
